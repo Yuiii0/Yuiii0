@@ -45,12 +45,21 @@
 <br/>
 <br/>
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Yuiii0&hide=stars&count_private=true&show_icons=true&&theme=buefy" alt="Yuiii0's GitHub stats" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuiii0&layout=compact" alt="Top Langs" height="180">
-</p>
+</div>
+<br/>
+<br/>
+<div >
+  <a href="https://solved.ac/yuziza9">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yuziza9" alt="Solved.ac 프로필">
+  </a>
+</div>
+
 <br/>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=ffc3a0&section=footer" alt="footer">
 </p>
+
 </section>
