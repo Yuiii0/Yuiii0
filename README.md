@@ -38,7 +38,7 @@
 <h3 align="center" style="margin-top: 30px; margin-bottom: 20px;">📩 Contact</h3>
 <p align="center">
   <a href="https://yuuxi.tistory.com"><img src="https://img.shields.io/badge/tistory-FF7200?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"/></a>&nbsp;
-  <a href="mailto:yuji918@naver.com"><img src="https://img.shields.io/badge/email-20C997?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+  <a href="mailto:yuji91892@gmail.com"><img src="https://img.shields.io/badge/email-20C997?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
 </p>
 
 <br/>
